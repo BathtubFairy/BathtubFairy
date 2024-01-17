@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 🌿 ! I'm Elijah and I'm a student at SWCTA! I'm currently in the animation and game development program, and I'm currently learning Java and C#!
 
 <!--
 **BathtubFairy/BathtubFairy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
